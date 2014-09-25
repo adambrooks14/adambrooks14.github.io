@@ -1,0 +1,26 @@
+body {
+	background-color : grey;
+	font-family : Helvetica, sans-serif;
+}
+
+.imgLoc {
+	width : 30%;
+	float : left;
+}
+
+.imgLoc .profileImg {
+	max-width : 100%;
+}
+
+.contLoc {
+	width : 70%;
+	float : right;
+}
+
+.contLoc .resHead {
+	font-style : italic;
+}
+
+.contLoc .bullet {
+	list-style-type : circle;
+}
